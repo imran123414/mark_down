@@ -147,5 +147,6 @@ Column A | Column B | Column C
 
 <span style="color:red">
 This text color is red
+My name is Imran
 </span>
 
